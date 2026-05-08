@@ -1,7 +1,8 @@
-````md
 # Play Again
 
 A utility mod for Minecraft 1.8.9 (Forge) that automatically joins matches when it detects the `"CLICK HERE"` message in chat on the Mush server.
+
+<img width="1600" height="900" alt="utility mod" src="https://github.com/user-attachments/assets/61b9094b-0d75-4118-bb48-d3fa3d2d07f7" />
 
 ## Important Note
 
@@ -67,6 +68,3 @@ The author is not responsible for punishments, bans, or other consequences resul
 Minecraft modifications are allowed under Mojang's guidelines:
 
 [https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition](https://help.minecraft.net/hc/en-us/articles/4409139065613-Mods-for-Minecraft-Java-Edition)
-
-```
-```
