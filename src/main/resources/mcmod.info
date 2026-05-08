@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playagain",
+  "name": "PlayAgainMod",
+  "description": "Mod that automatically joins matches when it detects the "CLICK HERE" message in chat. Works exclusively on the Mush server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "4everdies",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
